@@ -6,11 +6,11 @@
 
 ## Module Number: BDK13
 
-**Module Title:** Public Health and Big Data
+**Module Title:** Learn FHIR
 
 **Module Description:**
 
-Overview of public health and its use of big data.
+Tutorial for implementing the SMART on FHIR standards for clinical data.
 
 **Team Lead(s):** James Morrison, William Hersh
 

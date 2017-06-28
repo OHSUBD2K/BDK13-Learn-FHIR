@@ -31,6 +31,7 @@ This is a holding place for the git repo https://github.com/learnfhir/learnFHIR 
 
 Follow the directions in the zip file for use and installation.
 
+See http://learnfhir.com/
 
 ## A note on Figures and Images
 
